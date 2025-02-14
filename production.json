@@ -1,0 +1,7 @@
+
+{
+    "mongoURI": "process.env.MONGODB_URI || `mongodb://localhost/image_uploader`", 
+    "jwtSecret": "Thisismysecret",
+    "githubClientId": "add_your_own",
+    "githubSecret": "add_your_own"
+}
